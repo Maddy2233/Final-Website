@@ -1,0 +1,35 @@
+body{background-image: url(paperbackground1.png);
+    font-family:"Courier New",serif;
+    font-size:20px;
+    color:white;}
+
+    .header{display:block;
+        margin-left:auto;
+        margin-right:auto;}
+   
+     ul{
+            text-align:center;
+            padding-left:15px;
+            padding-right:15px;
+            padding-top:15px;
+            padding-bottom:15px;}
+            
+        li{text-decoration:none;
+            list-style-type:none;
+            display:inline;
+            padding-left:20px;
+            padding-right:20px;
+            font-size:20px;}
+
+            h1{font-size:10px;
+                text-align:center;}
+            
+        #flex-container{display:flex;
+        flex-direction:row;
+        flex-wrap:wrap;
+        justify-content:center;}
+        
+   div{margin:1vw;}
+
+   a{text-decoration:none;font-family:"Courier New",serif;
+    font-weight:bold;color:lightblue;}

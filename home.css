@@ -1,2 +1,17 @@
-body{background-image: url(paperbackground.png);}
+body{background-image: url(paperbackground1.png);
+    font-family:"Courier New",serif;
+    font-size:20px;
+    color:white;}
 
+#flex-container{display:flex;
+    flex-direction: row;
+justify-content: center;}
+
+.header{display:block;
+        margin-left:auto;
+        margin-right:auto;}
+       
+        h1{font-size:10px;
+            text-align:center;}
+
+           
